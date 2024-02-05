@@ -1,0 +1,323 @@
+[
+    {
+        "id":1,
+        "hero":"Iron-Man",
+        "name":"Anthony Edwards Tony Stark",
+        "link":"https://www.marvel.com/characters/iron-man-tony-stark",
+        "imghero":"https://cdn.marvel.com/content/1x/002irm_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/002irm_ons_cut_dsk_01_1.jpg",
+        "biography":"Inventor Tony Stark applies his genius for high-tech solutions to problems as Iron Man, the armored Avenger.",
+        "size":40000
+    },
+    {
+        "id":2,
+        "hero":"Hulk",
+        "name":"Bruce Banner",
+        "link":"https://www.marvel.com/characters/hulk-bruce-banner",
+        "imghero":"https://cdn.marvel.com/content/1x/006hbb_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/006hbb_ons_crd_03.jpg",
+        "biography":"Exposed to heavy doses of gamma radiation, scientist Bruce Banner transforms into the mean, green rage machine called the Hulk.",
+        "size":40000
+    },
+    {
+        "id":3,
+        "hero":"Captain America",
+        "name":"Steve Rogers",
+        "link":"https://www.marvel.com/characters/captain-america-steve-rogers",
+        "imghero":"https://cdn.marvel.com/content/1x/003cap_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/003cap_ons_crd_03.jpg",
+        "biography":"America’s World War II Super-Soldier continues his fight in the present as an Avenger and untiring sentinel of liberty.",
+        "size":40000
+    },
+    {
+        "id":4,
+        "hero":"Thor",
+        "name":"Thor Odinson",
+        "link":"https://www.marvel.com/characters/thor-thor-odinson",
+        "imghero":"https://cdn.marvel.com/content/1x/004tho_ons_crd_04.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/004tho_ons_crd_04.jpg",
+        "biography":"Thor Odinson wields the power of the ancient Asgardians to fight evil throughout the Nine Realms and beyond.",
+        "size":40000
+    },
+    {
+        "id":5,
+        "hero":"Black Widow",
+        "name":"Natacha Romanoff",
+        "link":"https://www.marvel.com/characters/black-widow-natasha-romanoff",
+        "imghero":"https://cdn.marvel.com/content/1x/011blw_ons_crd_04.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/011blw_ons_crd_04.jpg",
+        "biography":"A deadly assassin is closing in on Natasha Romanoff. Now Natasha must reunite with an unlikely group of spies from her past in order to survive and stop a lethal force from being unleashed on the world.",
+        "size":40000
+    },
+    {
+        "id":6,
+        "hero":"HawkEye",
+        "name":"Crint Barton",
+        "link":"https://www.marvel.com/characters/hawkeye-clint-barton",
+        "imghero":"https://cdn.marvel.com/content/1x/hawkeye_ons_crd_01.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/018hcb_ons_cut_dsk_01_1.jpg",
+        "biography":"An expert marksman and fighter, Clint Barton puts his talents to good use by working for S.H.I.E.L.D. as a special agent. The archer known as Hawkeye also boasts a strong moral compass that at times leads him astray from his direct orders.",
+        "size":40000
+    },
+    {
+        "id":7,
+        "hero":"Ant Man",
+        "name":"Scott Lang",
+        "link":"https://www.marvel.com/characters/ant-man-scott-lang",
+        "imghero":"https://cdn.marvel.com/content/1x/010ant_ons_crd_05.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/010ant_ons_cut_dsk_01_0.jpg",
+        "biography":"Thief turned hero Scott Lang uses size manipulation tech to infiltrate bases and intimidate bad guys. Whether he’s commanding an insect army or standing tall at 65 feet, Scott’s always trying to do the right thing now that he’s Ant-Man.",
+        "size":40000
+    },
+    {
+        "id":8,
+        "hero":"The Wasp",
+        "name":"Hope Van Dyne",
+        "link":"https://www.marvel.com/characters/hope-van-dyne",
+        "imghero":"https://cdn.marvel.com/content/1x/321whv_ons_crd_02.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/321whv_ons_cut_dsk_01.jpg",
+        "biography":"Hope Van Dyne, daughter of the brilliant and heroic Ant-Man (Hank Pym) and The Wasp (Janet van Dyne), helps trains her father’s successor Scott Lang and secure the destruction of the Yellowjacket technology.",
+        "size":40000
+    },
+    {
+        "id":9,
+        "hero":"Scarlet Witch",
+        "name":"Wanda Maximoff",
+        "link":"https://www.marvel.com/characters/scarlet-witch-wanda-maximoff",
+        "imghero":"https://cdn.marvel.com/content/1x/012scw_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/012scw_ons_cut_dsk_02.jpg",
+        "biography":"Notably powerful, Wanda Maximoff has fought both against and with the Avengers, attempting to hone her abilities and do what she believes is right to help the world.",
+        "size":40000
+    },
+    {
+        "id":10,
+        "hero":"Vision",
+        "name":"Vision",
+        "link":"https://www.marvel.com/characters/vision",
+        "imghero":"https://cdn.marvel.com/content/1x/013vis_ons_crd_01-1.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/013vis_ons_cut_dsk_01_1.jpg",
+        "biography":"A fully unique being, Vision came about thanks to a combination of Wakandan Vibranium, Asgardian lightning, an Infinity Stone, and more.",
+        "size":40000
+    },
+    {
+        "id":11,
+        "hero":"Black Panther",
+        "name":"T'Challa",
+        "link":"https://www.marvel.com/characters/black-panther-t-challa",
+        "imghero":"https://cdn.marvel.com/content/1x/007blp_ons_crd_02.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/007blp_ons_cut_dsk_01_2.jpg",
+        "biography":"As the king of the African nation of Wakanda, T’Challa protects his people as the latest in a legacy line of Black Panther warriors.",
+        "size":40000
+    },
+    {
+        "id":12,
+        "hero":"War Machine",
+        "name":"Jame Rhodes",
+        "link":"https://www.marvel.com/characters/war-machine-james-rhodes",
+        "imghero":"https://cdn.marvel.com/content/1x/042wmr_ons_crd_04.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/042wmr_ons_cut_dsk_01_2.jpg",
+        "biography":"Air Force Lieutenant Colonel James “Rhodey” Rhodes exudes loyalty and courage, whether flying a plane or piloting the War Machine armor.",
+        "size":40000
+    },
+    {
+        "id":13,
+        "hero":"Doctor Strenge",
+        "name":"Stephen Strenge",
+        "link":"https://www.marvel.com/characters/doctor-strange-stephen-strange",
+        "imghero":"https://cdn.marvel.com/content/1x/009drs_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/009drs_ons_cut_dsk_01_0.jpg",
+        "biography":"Once a highly successful, yet notably egotistical, surgeon, Doctor Stephen Strange endured a terrible accident that led him to evolve in ways he could have never foreseen.",
+        "size":40000
+    },
+    {
+        "id":14,
+        "hero":"Captain Marvel",
+        "name":"Carol Danvers",
+        "link":"https://www.marvel.com/characters/captain-marvel-carol-danvers",
+        "imghero":"https://cdn.marvel.com/content/1x/008cmv_ons_crd_05.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/008cmv_ons_cut_dsk_03_0.jpg",
+        "biography":"Rediscovering her human identity and past, Carol Danvers learned to channel her powers for good, becoming the Super Hero Captain Marvel. Now an ally to Earth's mightiest heroes, the Avengers, she travels across the stars to give aid to those in need.",
+        "size":40000
+    },
+    {
+        "id":15,
+        "hero":"Winter Soldier",
+        "name":"Bucky Barnes",
+        "link":"https://www.marvel.com/characters/winter-soldier-bucky-barnes",
+        "imghero":"https://cdn.marvel.com/content/1x/015wsb_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/015wsb_ons_cut_dsk_01_1.jpg",
+        "biography":"James Buchanan “Bucky” Barnes enlists to fight in World War II, but eventually literally falls in battle. Unfortunately, the evil Arnim Zola recovers him and erases his memory, turning him into a highly-trained assassin called the Winter Soldier.",
+        "size":40000
+    },
+    {
+        "id":16,
+        "hero":"Spider Man",
+        "name":"Peter Parker",
+        "link":"https://www.marvel.com/characters/spider-man-peter-parker",
+        "imghero":"https://cdn.marvel.com/content/1x/005smp_ons_crd_02.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/005smp_ons_cut_dsk_01_5.jpg",
+        "biography":"With amazing spider-like abilities, teenage science whiz Peter Parker fights crime and dreams of becoming an Avenger as Spider-Man.",
+        "size":40000
+    },
+    {
+        "id":17,
+        "hero":"Shang Chi",
+        "name":"Shang Chi",
+        "link":"https://www.marvel.com/characters/shang-chi",
+        "imghero":"https://cdn.marvel.com/content/1x/242shc_ons_crd_01.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/shangchi_lob_crd_07.jpg",
+        "biography":"A BOLD NEW ERA STARTS HERE! Shang-Chi has gained possession of the powerful Ten Rings. But so much concentrated energy has not gone unnoticed.",
+        "size":40000
+    },
+    {
+        "id":18,
+        "hero":"Ms.Marvel",
+        "name":"Kamala Khan",
+        "link":"https://www.marvel.com/characters/ms-marvel-kamala-khan",
+        "imghero":"https://cdn.marvel.com/content/1x/038mmk_ons_crd_02.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/themarvels_lob_crd_05.jpg",
+        "biography":"",
+        "size":40000
+    },
+    {
+        "id":19,
+        "hero":"Star Lord",
+        "name":"Kamala Khan",
+        "link":"https://www.marvel.com/characters/star-lord-peter-quill",
+        "imghero":"https://cdn.marvel.com/content/1x/021slq_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/021slq_ons_cut_dsk_01_0.jpg",
+        "biography":"Would-be thief Peter Quill journeys through space as Star-Lord, the leader of the Guardians of the Galaxy.",
+        "size":40000
+    },
+    {
+        "id":20,
+        "hero":"Gamora",
+        "name":"Gamora",
+        "link":"https://www.marvel.com/characters/star-lord-peter-quill",
+        "imghero":"https://cdn.marvel.com/content/1x/022gam_ons_crd_02.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/022gam_ons_cut_dsk_01_1_1.jpg",
+        "biography":"Gamora is a trained warrior assassin, whose life under her adoptive father Thanos’ torturous wrath leads her to turn against him. Realizing the universe is threatened by powerful Infinity Stones, she takes up the mantle of Guardian of the Galaxy.",
+        "size":40000
+    },
+    {
+        "id":21,
+        "hero":"Rocket",
+        "name":"Rocket",
+        "link":"https://www.marvel.com/characters/rocket",
+        "imghero":"https://cdn.marvel.com/content/1x/023rra_ons_crd_04.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/023rra_ons_cut_dsk_01_2.jpg",
+        "biography":"Ain’t no thing like Rocket, ‘cept Rocket. He lives for the simple things, including collecting valuable bounty alongside his friend and partner, Groot. Quick to train a weapon on anyone who offends him, he’s far more formidable than he appears.",
+        "size":40000
+    },
+    {
+        "id":22,
+        "hero":"Groot",
+        "name":"Groot",
+        "link":"https://www.marvel.com/characters/groot",
+        "imghero":"https://cdn.marvel.com/content/1x/024grt_ons_crd_02.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/024grt_ons_cut_dsk_01_1.jpg",
+        "biography":"This tree-like being branched out of his comfort zone to help the Guardians of the Galaxy keep the people of the universe safe.",
+        "size":40000
+    },
+    {
+        "id":23,
+        "hero":"Drax",
+        "name":"Drax",
+        "link":"https://www.marvel.com/characters/drax",
+        "imghero":"https://cdn.marvel.com/content/1x/025drx_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/025drx_ons_cut_dsk_01_1.jpg",
+        "biography":"Drax is a brutish, battle-tested warrior. A former intergalactic criminal, Drax has no interest in money, only avenging his slain family. Reluctant at first, the hero with an unquenchable murderous rage joins the Guardians of the Galaxy.",
+        "size":40000
+    },
+    {
+        "id":24,
+        "hero":"Mantis",
+        "name":"Mantis",
+        "link":"https://www.marvel.com/characters/mantis",
+        "imghero":"https://cdn.marvel.com/content/1x/045mts_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/045mts_ons_cut_dsk_01_1.jpg",
+        "biography":"Isolated from other lifeforms from an early age by Ego, Mantis does not understand the intricacies of social engagement; but she is learning upon recruitment into the Guardians of the Galaxy.",
+        "size":40000
+    },
+    {
+        "id":25,
+        "hero":"Nebula",
+        "name":"Nebula",
+        "link":"https://www.marvel.com/characters/nebula",
+        "imghero":"https://cdn.marvel.com/content/1x/043neb_ons_crd_04.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/043neb_ons_cut_dsk_01_2.jpg",
+        "biography":"The fierce warrior Nebula is the adopted daughter of Thanos and the “sister” of Gamora. As the Mad Titan raised his “daughters,” he trained the two in combat, often forcing them to face off against each other.",
+        "size":40000
+    },
+    {
+        "id":26,
+        "hero":"Kraglin",
+        "name":"Kraglin",
+        "link":"https://www.marvel.com/characters/kraglin",
+        "imghero":"https://cdn.marvel.com/content/1x/1283krg_ons_crd_01.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+        "biography":"",
+        "size":40000
+    },
+    {
+        "id":27,
+        "hero":"Cosmo",
+        "name":"Cosmo",
+        "link":"https://www.marvel.com/characters/cosmo-the-spacedog",
+        "imghero":"https://cdn.marvel.com/content/1x/249csm_ons_crd_01.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+        "biography":"",
+        "size":40000
+    },
+    {
+        "id":28,
+        "hero":"Namor",
+        "name":"Namor",
+        "link":"https://www.marvel.com/characters/namor",
+        "imghero":"https://cdn.marvel.com/content/1x/129nam_ons_crd_01.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/blackpantherwakandaforever_lob_crd_06.jpg",
+        "biography":"",
+        "size":40000
+    },
+    {
+        "id":29,
+        "hero":"She-Hulk",
+        "name":"Jennifer Walters",
+        "link":"https://www.marvel.com/characters/she-hulk-jennifer-walters",
+        "imghero":"https://cdn.marvel.com/content/1x/123shh_ons_crd_01.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/shehulk_lob_crd_04.jpg",
+        "biography":"",
+        "size":40000
+    },
+    {
+        "id":30,
+        "hero":"Daredevil",
+        "name":"Matthew Murdock",
+        "link":"https://www.marvel.com/characters/daredevil-matthew-murdock",
+        "imghero":"https://cdn.marvel.com/content/1x/026ddm_ons_crd_02_1.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/026ddm_ons_cut_dsk_02.jpg",
+        "biography":"Blinded as a boy, Matt Murdock used his sonar-strong hearing to aid him in his martial arts training, becoming a fight-for-the-underdog defense attorney by day and a masked vigilante called Daredevil by night.",
+        "size":40000
+    },
+    {
+        "id":31,
+        "hero":"Valkyrie",
+        "name":"Valkyrie",
+        "link":"https://www.marvel.com/characters/valkyrie",
+        "imghero":"https://cdn.marvel.com/content/1x/090vsp_ons_crd_02.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/090vsp_ons_cut_dsk_01_0.jpg",
+        "biography":"Gifted the power of the legendary Asgardian Brunnhilde, Parrington assumed the mantle and the cosmic responsibilities of the Valkyrie.",
+        "size":40000
+    },
+    {
+        "id":32,
+        "hero":"Loki",
+        "name":"Loki",
+        "link":"https://www.marvel.com/characters/loki",
+        "imghero":"https://cdn.marvel.com/content/1x/017lok_ons_crd_03.jpg",
+        "imghuman":"https://cdn.marvel.com/content/1x/017lok_ons_cut_dsk_01_1.jpg",
+        "biography":"Loki, Prince of Asgard, Odinson, rightful heir of Jotunheim, and God of Mischief, is burdened with glorious purpose. His desire to be a king drives him to sow chaos in Asgard. In his lust for power, he extends his reach to Earth.",
+        "size":40000
+    }
+]
+
